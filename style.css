@@ -1,0 +1,19 @@
+body{
+  background-img: url("background.png");
+}
+img{
+  width:50%;
+  height:400px;
+  margin:auto;
+  border-style:outset;
+}
+div{
+  padding:50px;
+  margin:50px;
+  color:rgb(94, 3, 84, .5);
+  text-color:rgb(222, 153, 214);
+}
+h1{
+  text-transform: capitalize;
+  font-weight: bolder;
+}
